@@ -1,14 +1,26 @@
 # nodeEnv (Node 环境管理)
 
-轻松管理和切换 `Node.js` 版本
+管理和切换 `Node.js` 版本，锁定项目的 `Node.js` 版本。
+
+## 仓库地址
+
+点个 `star` 吧~
+
+[github nodeEnv](https://github.com/chenbimo/nodeEnv)
 
 ## 版本要求
 
 该扩展需要 `vscode 1.74` 或更高版本才能使用。
 
-## 非 windows 系统注意
+## windows 系统
 
-请把如下两行放到你的 `~/.bashrc` 或 `~/.profile` 或 `~/.zshrc` 文件中 (根据自己的实际情况来，放一个即可)
+本插件启动时，会自动将路径 `$HOME/.nvmd` 设置为环境变量 `path` 的第一个值。
+
+如果没有，请手动设置，不知道怎么设置，轻量联系作者微信 `chensuiyime`。
+
+## 非 windows 系统
+
+请把如下两行放到你的 `~/.bashrc` 或 `~/.profile` 或 `~/.zshrc` 文件中 (根据自己的实际情况来，放一个即可)。
 
 然后使用 `source` 命令重新加载它们，就可以使用啦~
 
@@ -23,7 +35,7 @@ export PATH="$NVMD_DIR/bin:$PATH"
 
 如下是我 `windows` 系统中 `nodeEnv` 的环境变量配置，删除即可，其他操作系统雷同。
 
-若遇到卸载问题，请联系作者微信：chensuiyime
+若遇到卸载问题，请联系作者微信：`chensuiyime`
 
 ```bash
 C:\Users\bimos\.nvmd\bin
@@ -41,17 +53,13 @@ npm i -g pnpm
 
 ## 关于作者
 
-本工具由前端顶级专家、农村程序员、车上码农、自由职业者、独立开发者、个人创业者、开源大师、前端之虎陈随易 ([https://chensuiyi.me](https://chensuiyi.me)) 研发
+本工具由前端顶级专家、农村程序员、车上码农、自由职业者、独立开发者、个人创业者、开源大师、前端之虎陈随易 ([https://chensuiyi.me](https://chensuiyi.me)) 研发。
 
-## 关于企业
+## 赞赏
 
-随易科技 ([https://yicode.tech](https://yicode.tech))，致力于效率工具的设计和研发，让忙碌的人们提高效率，早点回家。
+本插件永久开源免费，如果帮助到您，请不吝赞赏笔者，以提供更好的更新和维护。
 
-## 关注公众号
-
-获取更多有用信息，请关注公众号
-
-![公众号](https://static.yicode.tech/images/chensuiyi-service-qrcode.jpg)
+![赞赏](https://static.yicode.tech/images/zan-shang.jpg)
 
 ## 答谢
 
