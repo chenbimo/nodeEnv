@@ -3,7 +3,7 @@
     "displayName": "NodeEnv - Node.js环境管理",
     "description": "轻松管理Node.js环境和版本",
     "publisher": "chensuiyi",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "private": true,
     "publishConfig": {
         "access": "public"
