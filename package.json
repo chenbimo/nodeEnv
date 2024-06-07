@@ -22,7 +22,7 @@
     "homepage": "https://chensuiyi.me",
     "repository": {
         "type": "git",
-        "url": "https://gitee.com/yicode-team/yicode"
+        "url": "https://github.com/chenbimo/nodeEnv"
     },
     "activationEvents": [],
     "files": [
