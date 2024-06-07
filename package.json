@@ -44,6 +44,7 @@
         "@rollup/plugin-json": "^6.1.0",
         "@rollup/plugin-node-resolve": "^15.2.3",
         "@vscode/codicons": "^0.0.36",
+        "@vscode/vsce": "^2.27.0",
         "@yicode/yidash": "^3.8.3",
         "@yicode/yite-cli": "^2.6.21",
         "adm-zip": "^0.5.14",
