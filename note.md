@@ -1,0 +1,2 @@
+-   下载地址
+    -   https://npmmirror.com/mirrors/node/index.json
