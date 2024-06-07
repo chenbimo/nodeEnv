@@ -2,6 +2,10 @@
 
 管理和切换 `Node.js` 版本，锁定项目的 `Node.js` 版本。
 
+![picture 1](https://static.yicode.tech/images/202406/20240607140956.png)
+
+[插件安装地址 https://marketplace.visualstudio.com/items?itemName=chensuiyi.node-env](https://marketplace.visualstudio.com/items?itemName=chensuiyi.node-env)
+
 ## 仓库地址
 
 点个 `star` 吧~
