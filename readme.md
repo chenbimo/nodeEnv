@@ -6,7 +6,9 @@
 
 点个 `star` 吧~
 
-[github nodeEnv](https://github.com/chenbimo/nodeEnv)
+gitee：[https://gitee.com/chenbimo/nodeEnv](https://gitee.com/chenbimo/nodeEnv)
+
+github：[https://github.com/chenbimo/nodeEnv](https://github.com/chenbimo/nodeEnv)
 
 ## 版本要求
 
