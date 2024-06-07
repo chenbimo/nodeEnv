@@ -14,6 +14,12 @@ github：[https://github.com/chenbimo/nodeEnv](https://github.com/chenbimo/nodeE
 
 该扩展需要 `vscode 1.74` 或更高版本才能使用。
 
+## nvm 相关问题
+
+[https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+
+本插件与 `nvm` 不兼容，请根据自身情况使用。
+
 ## windows 系统
 
 本插件启动时，会自动将路径 `$HOME/.nvmd` 设置为环境变量 `path` 的第一个值。
